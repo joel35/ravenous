@@ -29,7 +29,7 @@ const Yelp = {
                 console.log(err);
             })
     }
-};
+}
 
 
 export default Yelp;
